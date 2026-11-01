@@ -24,3 +24,6 @@ docker-target
 test-keypair.json
 tsconfig.tsbuildinfo
 .vscode
+
+# Local Instagram video renders (personal footage, not tracked)
+reels/
